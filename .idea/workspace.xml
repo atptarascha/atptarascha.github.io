@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="40930543-8c68-498c-9e80-5ab9f287b3ba" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service-single.html" afterPath="$PROJECT_DIR$/service-single.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service.html" afterPath="$PROJECT_DIR$/service.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,12 +34,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="867" column="36" lean-forward="true" selection-start-line="867" selection-start-column="36" selection-end-line="867" selection-end-column="36" />
+            <state relative-caret-position="468">
+              <caret line="71" column="98" lean-forward="false" selection-start-line="71" selection-start-column="98" selection-end-line="71" selection-end-column="98" />
               <folding>
-                <marker date="1492454740000" expanded="false" signature="40073:40080" ph="×" />
-                <marker date="1492454740000" expanded="false" signature="41165:41170" ph="&amp;" />
-                <marker date="1492454740000" expanded="false" signature="41483:41489" ph=" " />
+                <marker date="1492457363000" expanded="false" signature="40082:40089" ph="×" />
+                <marker date="1492457363000" expanded="false" signature="41174:41179" ph="&amp;" />
+                <marker date="1492457363000" expanded="false" signature="41492:41498" ph=" " />
               </folding>
             </state>
           </provider>
@@ -72,8 +68,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="522" column="42" lean-forward="false" selection-start-line="522" selection-start-column="42" selection-end-line="522" selection-end-column="42" />
+            <state relative-caret-position="258">
+              <caret line="529" column="23" lean-forward="false" selection-start-line="529" selection-start-column="22" selection-end-line="529" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -82,8 +78,8 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="774">
-              <caret line="454" column="42" lean-forward="false" selection-start-line="454" selection-start-column="42" selection-end-line="454" selection-end-column="42" />
+            <state relative-caret-position="3909">
+              <caret line="343" column="67" lean-forward="false" selection-start-line="343" selection-start-column="66" selection-end-line="343" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -113,6 +109,7 @@
       <find>offcanvas</find>
       <find>offcanv</find>
       <find>logo</find>
+      <find>logo tex</find>
     </findStrings>
     <replaceStrings>
       <replace>https://</replace>
@@ -129,11 +126,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/service.html" />
         <option value="$PROJECT_DIR$/service-single.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -259,7 +256,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1492448676506</updated>
-      <workItem from="1492448677789" duration="4842000" />
+      <workItem from="1492448677789" duration="7078000" />
     </task>
     <task id="LOCAL-00001" summary="replace all http links with https">
       <created>1492452346758</created>
@@ -310,17 +307,24 @@
       <option name="project" value="LOCAL" />
       <updated>1492454133016</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="substituted offcollapse menus with ukrainian entries">
+      <created>1492454995277</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1492454995277</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4842000" />
+    <option name="totallyTimeSpent" value="7078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -352,7 +356,8 @@
     <MESSAGE value="add mobile phone number and FA icons to contacts" />
     <MESSAGE value="remove blog from contacts page" />
     <MESSAGE value="changed nav menu language to ukrainian on all pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed nav menu language to ukrainian on all pages" />
+    <MESSAGE value="substituted offcollapse menus with ukrainian entries" />
+    <option name="LAST_COMMIT_MESSAGE" value="substituted offcollapse menus with ukrainian entries" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -383,22 +388,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="522" column="42" lean-forward="false" selection-start-line="522" selection-start-column="42" selection-end-line="522" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="454" column="42" lean-forward="false" selection-start-line="454" selection-start-column="42" selection-end-line="454" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
@@ -415,14 +404,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="529" column="23" lean-forward="false" selection-start-line="529" selection-start-column="22" selection-end-line="529" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3909">
+          <caret line="343" column="67" lean-forward="false" selection-start-line="343" selection-start-column="66" selection-end-line="343" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="867" column="36" lean-forward="true" selection-start-line="867" selection-start-column="36" selection-end-line="867" selection-end-column="36" />
+        <state relative-caret-position="468">
+          <caret line="71" column="98" lean-forward="false" selection-start-line="71" selection-start-column="98" selection-end-line="71" selection-end-column="98" />
           <folding>
-            <marker date="1492454740000" expanded="false" signature="40073:40080" ph="×" />
-            <marker date="1492454740000" expanded="false" signature="41165:41170" ph="&amp;" />
-            <marker date="1492454740000" expanded="false" signature="41483:41489" ph=" " />
+            <marker date="1492457363000" expanded="false" signature="40082:40089" ph="×" />
+            <marker date="1492457363000" expanded="false" signature="41174:41179" ph="&amp;" />
+            <marker date="1492457363000" expanded="false" signature="41492:41498" ph=" " />
           </folding>
         </state>
       </provider>

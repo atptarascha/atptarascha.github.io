@@ -88,58 +88,6 @@
 
 						</nav>
 
-				  		<div class="container mainnav">
-
-				  			<div class="navbar-header">
-		                        
-		                        <div id="search">
-							    <button type="button" class="close">×</button>
-							    <form>
-							        <input type="search" value="" placeholder="type keyword(s) here" />
-							        <button type="submit" class="btn btn-primary btn-lg">Search</button>
-							    </form>
-								</div>
-							</div>
-							<nav class="navbar navbar-default" role="navigation">
-									<span class="search-button visible-xs"><a href="#search"><i class="fa fa-search"></i></a></span>
-									
-									<!-- offcanvas-trigger -->
-				                        <button type="button" class="navbar-toggle collapsed" >
-				                          <span class="sr-only">Toggle navigation</span>
-				                          <i class="fa fa-bars"></i>
-				                        </button>
-
-									<!-- Collect the nav links, forms, and other content for toggling -->
-									<div class="collapse navbar-collapse navbar-collapse">
-
-						                <span class="search-button pull-right"><a href="#search"><i class="fa fa-search"></i></a></span>
-
-										<ul class="nav navbar-nav hidden-sm">
-											<li><a href="index.html">Home</a></li>
-											<li><a href="about.html">About</a></li>
-
-	                                       <!-- Services -->
-											    <li class="dropdown"><a href="#">Services <b class="caret"></b></a>
-											        <!-- submenu-wrapper -->
-											        <div class="submenu-wrapper submenu-wrapper-topbottom">
-											            <div class="submenu-inner  submenu-inner-topbottom">
-											                <ul class="dropdown-menu">
-											                    <li><a href="service.html">Service</a></li>
-											                    <li><a href="service-single.html">Single Service</a></li>
-											                </ul>
-											            </div>
-											        </div>
-											        <!-- /submenu-wrapper -->
-											    </li>
-											<!-- /Services -->
-											<li class="active"><a href="contact.html">Contact</a></li>
-											<li><a href="typography.html">Typography</a></li>
-										</ul>
-									</div><!-- /.navbar-collapse -->
-									
-							</nav>
-						</div><!-- /.container -->
-
 						<!-- Page-title -->
 						<section class="page-title-section">
 							<div class="container">
@@ -459,43 +407,33 @@
 	    		</div> <!-- .st-content -->
 		    </div> <!-- .st-pusher -->
 
-	    	<!-- OFFCANVAS MENU -->
-	    	<div class="offcanvas-menu offcanvas-effect">
-	    		<div class="offcanvas-wrap">
-			        <div class="off-canvas-header">
-			        	<button type="button" class="close" aria-hidden="true" data-toggle="offcanvas" id="off-canvas-close-btn">&times;</button>
-			        </div>
-			        <ul id ="offcanvasMenu" class="list-unstyled visible-xs visible-sm">
-			            <li class="active"><a href="index.html">Home<span class="sr-only">(current)</span></a></li>
-			            <li><a href="about.html">About</a></li>
-			            <li>
-			            	<a href="#">Services</a>
-			            	<ul>
-			            		<li>
-			            			<a href="service.html">Service</a>
-			            		</li>
-			            		<li>
-			            			<a href="service-single.html">Single service</a>
-			            		</li>
-			            	</ul>
-
-			            </li>
-			            <li><a href="#">Blog</a>
+			<!-- OFFCANVAS MENU -->
+			<div class="offcanvas-menu offcanvas-effect">
+				<div class="offcanvas-wrap">
+					<div class="off-canvas-header">
+						<button type="button" class="close" aria-hidden="true" data-toggle="offcanvas" id="off-canvas-close-btn">&times;</button>
+					</div>
+					<ul id ="offcanvasMenu" class="list-unstyled visible-xs visible-sm">
+						<li class="active"><a href="index.html">Головна<span class="sr-only">(поточна)</span></a></li>
+						<li><a href="about.html">Про Нас</a></li>
+						<li>
+							<a href="#">Послуги</a>
 							<ul>
-			            		<li>
-			            			<a href="blog.html">Blog Standard</a>
-			            		</li>
-			            		<li>
-			            			<a href="blog-single.html">Single blog</a>
-			            		</li>
-			            	</ul>
-			            </li>
-			            <li><a href="contact.html">Contact</a></li>
-			            <li><a href="typography.html">Typography</a></li>
-			        </ul>
-			        <div class="offcanvas-widgets hidden-sm hidden-xs">
-				        <div id="twitterWidget">
-							<h2>Tweeter feed</h2>				    	
+								<li>
+									<a href="service.html">Усі послуги</a>
+								</li>
+								<li>
+									<a href="service-single.html">Вантажні перевезення</a>
+									<a href="service-single.html">Пасажирські перевезення</a>
+								</li>
+							</ul>
+
+						</li>
+						<li><a href="contact.html">Контакти</a></li>
+					</ul>
+					<div class="offcanvas-widgets hidden-sm hidden-xs">
+						<div id="twitterWidget">
+							<h2>Tweeter feed</h2>
 							<div class="twitter-widget"></div>
 						</div>
 						<div class="newsletter-widget">
@@ -508,13 +446,13 @@
 									<input type="email" class="form-control" id="InputEmail2" placeholder="Your email address">
 									<button type="submit" class="btn">Send &nbsp;<i class="fa fa-angle-right"></i></button>
 								</div>
-							</form>		
-							       				
+							</form>
+
 						</div><!-- newsletter-widget -->
 					</div>
 
 				</div>
-	      	</div><!-- .offcanvas-menu -->
+			</div><!-- .offcanvas-menu -->
 		</div><!-- /st-container -->
 
 

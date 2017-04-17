@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="40930543-8c68-498c-9e80-5ab9f287b3ba" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service-single.html" afterPath="$PROJECT_DIR$/service-single.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service.html" afterPath="$PROJECT_DIR$/service.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,25 +35,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10395">
-              <caret line="848" column="181" lean-forward="false" selection-start-line="848" selection-start-column="181" selection-end-line="848" selection-end-column="181" />
+            <state relative-caret-position="315">
+              <caret line="59" column="51" lean-forward="false" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
               <folding>
-                <marker date="1492452327000" expanded="false" signature="40048:40055" ph="×" />
-                <marker date="1492452327000" expanded="false" signature="41416:41421" ph="&amp;" />
-                <marker date="1492452327000" expanded="false" signature="41734:41740" ph=" " />
+                <marker date="1492452834000" expanded="false" signature="40065:40072" ph="×" />
+                <marker date="1492452834000" expanded="false" signature="41433:41438" ph="&amp;" />
+                <marker date="1492452834000" expanded="false" signature="41751:41757" ph=" " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="service-single.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sendemail.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sendemail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-462">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="service-single.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/service-single.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="66" lean-forward="false" selection-start-line="75" selection-start-column="66" selection-end-line="75" selection-end-column="66" />
+            <state relative-caret-position="315">
+              <caret line="63" column="138" lean-forward="false" selection-start-line="63" selection-start-column="138" selection-end-line="63" selection-end-column="138" />
               <folding />
             </state>
           </provider>
@@ -58,8 +72,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="71" column="68" lean-forward="false" selection-start-line="71" selection-start-column="68" selection-end-line="71" selection-end-column="68" />
+            <state relative-caret-position="300">
+              <caret line="60" column="138" lean-forward="false" selection-start-line="60" selection-start-column="138" selection-end-line="60" selection-end-column="138" />
               <folding />
             </state>
           </provider>
@@ -68,8 +82,8 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="73" column="40" lean-forward="false" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+            <state relative-caret-position="375">
+              <caret line="60" column="138" lean-forward="false" selection-start-line="60" selection-start-column="138" selection-end-line="60" selection-end-column="138" />
               <folding />
             </state>
           </provider>
@@ -78,8 +92,8 @@
       <file leaf-file-name="service.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="61" column="138" lean-forward="false" selection-start-line="61" selection-start-column="138" selection-end-line="61" selection-end-column="138" />
               <folding />
             </state>
           </provider>
@@ -90,10 +104,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>title of</find>
-      <find>blog</find>
       <find>http:</find>
       <find>http://</find>
+      <find>blog</find>
     </findStrings>
+    <replaceStrings>
+      <replace>https://</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -106,11 +123,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/service.html" />
         <option value="$PROJECT_DIR$/service-single.html" />
-        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -236,12 +253,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1492448676506</updated>
-      <workItem from="1492448677789" duration="2327000" />
+      <workItem from="1492448677789" duration="2820000" />
     </task>
+    <task id="LOCAL-00001" summary="replace all http links with https">
+      <created>1492452346758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1492452346759</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2327000" />
+    <option name="totallyTimeSpent" value="2820000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -271,6 +296,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="replace all http links with https" />
+    <option name="LAST_COMMIT_MESSAGE" value="replace all http links with https" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -292,47 +321,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="59" column="51" lean-forward="false" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
+          <folding>
+            <marker date="1492452834000" expanded="false" signature="40065:40072" ph="×" />
+            <marker date="1492452834000" expanded="false" signature="41433:41438" ph="&amp;" />
+            <marker date="1492452834000" expanded="false" signature="41751:41757" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="71" column="68" lean-forward="false" selection-start-line="71" selection-start-column="68" selection-end-line="71" selection-end-column="68" />
+        <state relative-caret-position="300">
+          <caret line="60" column="138" lean-forward="false" selection-start-line="60" selection-start-column="138" selection-end-line="60" selection-end-column="138" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="73" column="40" lean-forward="false" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+        <state relative-caret-position="375">
+          <caret line="60" column="138" lean-forward="false" selection-start-line="60" selection-start-column="138" selection-end-line="60" selection-end-column="138" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sendemail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="61" column="138" lean-forward="false" selection-start-line="61" selection-start-column="138" selection-end-line="61" selection-end-column="138" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service-single.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="66" lean-forward="false" selection-start-line="75" selection-start-column="66" selection-end-line="75" selection-end-column="66" />
+        <state relative-caret-position="315">
+          <caret line="63" column="138" lean-forward="false" selection-start-line="63" selection-start-column="138" selection-end-line="63" selection-end-column="138" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10395">
-          <caret line="848" column="181" lean-forward="false" selection-start-line="848" selection-start-column="181" selection-end-line="848" selection-end-column="181" />
-          <folding>
-            <marker date="1492452327000" expanded="false" signature="40048:40055" ph="×" />
-            <marker date="1492452327000" expanded="false" signature="41416:41421" ph="&amp;" />
-            <marker date="1492452327000" expanded="false" signature="41734:41740" ph=" " />
-          </folding>
         </state>
       </provider>
     </entry>
